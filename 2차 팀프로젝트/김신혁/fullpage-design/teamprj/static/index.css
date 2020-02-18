@@ -1,0 +1,33 @@
+/* index.css */
+.section {
+    color: white;
+}
+.s0 {
+    background-image: url('Sparkling-sea.jpg');
+    background-size: cover;
+}
+
+#fp-nav ul li a span {
+    background-color: #fff;
+}
+
+#myMenu .menuLink {
+    text-decoration: none;
+    color : #fff;
+    display : block;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#myMenu .menuLink:hover {
+    color : #4d4d4d;
+}
+
+#myMenu ul li{
+    list-style : none;
+    float : left;
+    line-height:30px;
+    text-align: center;
+    vertical-align: middle;
+}
+
